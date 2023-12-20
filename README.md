@@ -65,6 +65,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - Akhil Chhibber
+Your Name: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
