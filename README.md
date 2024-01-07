@@ -1,6 +1,6 @@
 # Maximum Likelihood Classification (MLC) with Python 
 <p align="center">
-  <img src="https://github.com/akhilchibber/Maximum-Likelihood-Classification/blob/main/MLC.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Maximum-Likelihood-Classification/blob/main/MLC.jpg?raw=true" alt="earthml Logo">
 </p>
 
 Welcome to this repository where we explore satellite imagery processing using Python! Our primary tool is a script designed to perform Maximum Likelihood Classification (MLC), a statistical method used in remote sensing for classifying satellite imagery.
